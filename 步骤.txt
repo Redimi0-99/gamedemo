@@ -1,0 +1,2 @@
+新建Empty 在SceneController 添加FirstSceneController 进游戏对象 然后就是scripts 引入ArrowFactory 和ScoreRecorder
+在对象选择camera main camera 切换对象 ChildCamera引入main camera 然后 gui添加到游戏对象 运行游戏
